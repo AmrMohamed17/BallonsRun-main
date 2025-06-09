@@ -1,0 +1,28 @@
+{
+    "name": "MoreMountains.CorgiEngine.InputSystem",
+    "rootNamespace": "",
+    "references": [
+        "GUID:4a1cb1490dc4df8409b2580d6b44e75e",
+        "GUID:6beab0bf0f222b74b868dbe4bcfa23cf",
+        "GUID:75469ad4d38634e559750d17036d5f7c",
+        "GUID:57c32fc907df0f54e8e6e8f0d2488336",
+        "GUID:831409e8f9d13b5479a3baef9822ad34"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [
+        "MM_INPUTSYSTEM"
+    ],
+    "versionDefines": [
+        {
+            "name": "com.unity.inputsystem",
+            "expression": "1.0.0",
+            "define": "MM_INPUTSYSTEM"
+        }
+    ],
+    "noEngineReferences": false
+}
